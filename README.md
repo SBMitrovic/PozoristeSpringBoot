@@ -5,4 +5,4 @@ The theme of the application is the work of the theater. Users can search for sh
 Java classes are created from database using JPA tools. 
 Build tool used for project is MAVEN. 
 
-P.S. ALL ENTITIES NAMES ARE REPRESENTED IN********************* SERBIAN *********************language.
+P.S. all entities names are represented SERBIAN language.
