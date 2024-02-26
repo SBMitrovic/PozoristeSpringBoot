@@ -76,8 +76,8 @@
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
-			<groupId>PozoristeJPA</groupId>
-			<artifactId>PozoristeJPA</artifactId>
+			<groupId>PzrstJPA</groupId>
+			<artifactId>PzrstJPA</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
