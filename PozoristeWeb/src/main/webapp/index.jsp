@@ -1,17 +1,13 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
-    
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<meta charset="UTF-8">
+<title>Razvoj informacionih sistema</title>
 </head>
 <body>
-	Izaberite neku od ponnudjenih opcija <br>
-	<a href="/Library/controller/getPosjetioci">Pritisnite ovde za prikaz svih posjetialca</a><br>
-	<a href="/Library/prikaz/pretragaPredstava.jsp"> Pretraga predstava</a><br>
-	<a href="/Library/controller/getPredstave"> Prikaz svih predstaava</a><br>
-	<a href="/Library/controller/getZanrovi"> Prikaz svih zanrova</a><br>
+	<h1>Dobrodošli u RIS pozorište!</h1>
+	<a href="/Pozoriste/predstave/getReziseri">Izbor režisera</a>
 </body>
 </html>
